@@ -1,4 +1,4 @@
-### Project submission for Project
+## Project submission for Project 2
 
 The project has the following two submissions:
 
