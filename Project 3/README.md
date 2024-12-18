@@ -1,4 +1,5 @@
-Project submission for Project 3
+## Project submission for Project 3
+
 The project has the following three submissions:
 
 - The report in PDF-format
